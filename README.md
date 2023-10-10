@@ -1,4 +1,4 @@
-# Os dircusos dos presidentes do Brasil na ONU
+# Os dircursos dos presidentes do Brasil na ONU
 
 ## O projeto:
 
