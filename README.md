@@ -108,7 +108,7 @@ Mas, também pode-se notar a incidência de "socialismo", "mídia", "soberania" 
 <img src="/img/nuvem_bolsonaro.png">
 
 
-## Análise:
+## Considerações:
 
 O discurso de abertura da Assembleia Geral da ONU é um momento de grande importância para o Brasil. Tradicionalmente, é o país que abre os trabalhos. E é a apresentação das diretrizes que o Brasil deve tomar durante os respectivos governos. Verifica-se que alguns buscam uma abordagem mais geral e condizente e alinhado com o pensamento dos demais países-membros.
 
