@@ -38,6 +38,7 @@ Utilizar a linguagem Python e bibliotecas necessárias para extrair do site os t
 
 * **Numpy**
 * **PyPDF2**
+* **Selenium**
 * **wordcloud**
 * **matplotlib.pyplot**
 
@@ -52,9 +53,9 @@ O critério utilizado foi o discurso proferido por cada um dos ex-presidentes no
 ##
 Após o acesso, foi realizada a busca pelos discursos. Vale ressaltar que não há uniformidade nos formatos. Color, FHC1 e Lula1 estão em formato **.pdf**; Dilma1 e Bolsonaro, em formato **.html**.
 
-Os dois últimos, pelo fato de estarem em formato **.html** foram mais fáceis de se obter o formato **.txt** (necessário para se criar a nuvem de palavras). Bastou copiar o texto e colar em um **Bloco de Notas**.
+Os dois últimos, pelo fato de estarem em formato **.html**, os arquivos no formato **.txt** (necessários para se criar a nuvem de palavras) foram obtidos por "scraping", com a biblioteca **Selenium**. **OBS**: foram realizadas várias tentativas com o **Beautifull Soup**, porém, o código entrou em loop e não finalizava.
 
-Os discursos que estavam em formatos **.pdf** foram tratado pela biblioteca **PyPDF2** e, assim, resultaram em arquivos **.txt**.
+Os discursos que estavam em formatos **.pdf** foram tratados pela biblioteca **PyPDF2** e, assim, resultaram em arquivos **.txt**.
 
 
 ## Links para os discursos(também disponíveis na pasta **data**):
