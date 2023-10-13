@@ -26,7 +26,7 @@ Utilizar a linguagem Python e bibliotecas necessárias para extrair do site os t
 * **data:** links para os arquivos **.pdf**, **.html** e **.mp3** baixados no site da Biblioteca da Presidência da República;
 * **img:** capturas de tela e gráficos do projeto;
 * **code:** estrutura dos códigos em **.ipynb** e **.py** (**Jupyter Notebook** e **VSCode**;
-* **english version:** a translate of **reademe.md** (.pdf).
+* **english version:** a translate of **readme.md** (.pdf).
 
 
 ## Linguagem utilizada:
